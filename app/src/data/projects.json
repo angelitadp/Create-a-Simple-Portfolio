@@ -1,0 +1,32 @@
+[
+  {
+    "projectName": "Data Mart-based Dashboard for Kickstarter Dataset",
+    "description": "The project builds a data mart and dashboard to analyze Kickstarter data using SQL, Python, and Tableau for visualization.",
+    "source": "projects/github.png",
+    "url": "https://github.com/angelitapanjaitan/Data_Mart-based_Dashboard_for_Kickstarter_Dataset"
+  },
+  {
+    "projectName": "Dashboard Project Campaign Using Kickstarter Dataset",
+    "description": "The project uses Tableau to visualize Kickstarter campaign data, providing insights into performance metrics.",
+    "source": "projects/tableau.png",
+    "url": "https://public.tableau.com/app/profile/angelita.panjaitan/viz/DashboardProjectCampaign_Group4/ProjectCampaign"
+  },
+  {
+    "projectName": "Data Visualization: Northwind FactSales",
+    "description": "The Northwind Sales Dashboard visualizes sales data, offering insights into performance and customer behavior using Tableau.",
+    "source": "projects/tableau.png",
+    "url": "https://example.com/project2"
+  },
+  {
+    "projectName": "Dashboard with seattle permits dataset",
+    "description": "This project uses Tableau to visualize Seattle building permits data, providing insights into permit types, locations, and issuance trends.",
+    "source": "projects/tableau.png",
+    "url": "https://public.tableau.com/app/profile/angelita.panjaitan/viz/seattlepermitsdashboard/Dashboard1"
+  },
+  {
+    "projectName": "Creating Interactive Charts and Metrics in Tableau",
+    "description": "This project showcases a data visualization dashboard created with Tableau, highlighting key insights from a dataset through interactive charts and metrics.",
+    "source": "projects/tableau.png",
+    "url": "https://public.tableau.com/app/profile/angelita.panjaitan/viz/FinalProyekVisdat/Dashboard1"
+  }
+]

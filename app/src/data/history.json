@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Data Analist",
+    "organisation": "Aptika",
+    "startDate": "Oct, 2024",
+    "endDate": "Present",
+    "experiences": ["Extracted the information and turned it into insights.", "Creating a React JS Interactive Dashboard"],
+    "imageSrc": "history/kominfo.png"
+  },
+  {
+    "role": "Student Machine Learning",
+    "organisation": "Bangkit Academy",
+    "startDate": "Feb, 2024",
+    "endDate": "July, 2024",
+    "experiences": [
+      "Engaged in machine learning projects with industry mentors.",
+      "Practical experience in data processing and model deployment.",
+      "Developed Jogja Food Finder application using TensorFlow."
+    ],
+    "imageSrc": "history/bangkit.png"
+  }
+]
