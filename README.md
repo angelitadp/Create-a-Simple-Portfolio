@@ -1,4 +1,4 @@
-**Hey hey!**
+# **Hey hey!**
 
 I'm Angelita, your go-to data geek who loves turning numbers into cool stories. I’m all about finding those hidden insights and making data actually fun. Let’s chat and dive into some data magic together!
 
